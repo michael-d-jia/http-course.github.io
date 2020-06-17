@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>Brown Bears</title>
-</head>
-
 <body>
   <a href="./index.html">Brown Bear</a>
+  <div></div>
   <a href="./aboutme.html">About Me</a>
   <h1>The Brown Bear</h1>
   <ul>
