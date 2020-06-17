@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Brown Bears</title>
 </head>
   <body>
     <a href = "./index.html">Brown Bear</a>
