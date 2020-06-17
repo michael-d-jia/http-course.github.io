@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	
-	</head>
+</head>
   <body>
     <a href = "./index.html">Brown Bear</a>
     <div>
